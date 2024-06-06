@@ -1,0 +1,10 @@
+[
+  {
+    "message": "Time to stand up!",
+    "condition": "time % 60 === 0"
+  },
+  {
+    "message": "Drink water!",
+    "condition": "time % 120 === 0"
+  }
+]
