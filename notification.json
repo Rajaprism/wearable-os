@@ -1,5 +1,5 @@
 {
-  "notifications": [
+
     {
       "index": 1,
       "title": "Meeting Reminder",
@@ -35,5 +35,4 @@
       "image_url": "https://raw.githubusercontent.com/your-username/your-repository-name/main/images/family.png",
       "display_limit": 6
     }
-  ]
 }
