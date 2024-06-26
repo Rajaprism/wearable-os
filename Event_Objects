@@ -1,0 +1,27 @@
+[
+    {
+        "event_id": 1,
+        "event_name": "event_show_at",
+        "event_value": 100
+    },
+    {
+        "event_id": 2,
+        "event_name": "event_app_launch",
+        "event_value": 200
+    },
+    {
+        "event_id": 3,
+        "event_name": "event_app_close",
+        "event_value": 300
+    },
+    {
+        "event_id": 4,
+        "event_name": "event_payment_success",
+        "event_value": 400
+    },
+    {
+        "event_id": 5,
+        "event_name": "event_payment_failed",
+        "event_value": 500
+    }
+]
