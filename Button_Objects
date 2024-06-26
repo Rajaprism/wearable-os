@@ -1,0 +1,50 @@
+[
+    {
+        "button_title": "Button 1",
+        "button_action": "simple_action"
+    },
+    {
+        "button_title": "Button 2",
+        "button_action": {
+            "activity_name": "activity_launch",
+            "extra_data": [
+                {
+                    "key": "param1",
+                    "value": 10
+                },
+                {
+                    "key": "param2",
+                    "value": 20
+                },
+                {
+                    "key": "param3",
+                    "value": 30
+                }
+            ]
+        }
+    },
+    {
+        "button_title": "Button 3",
+        "button_action": "another_simple_action"
+    },
+    {
+        "button_title": "Button 4",
+        "button_action": {
+            "activity_name": "activity_close",
+            "extra_data": [
+                {
+                    "key": "paramA",
+                    "value": 100
+                },
+                {
+                    "key": "paramB",
+                    "value": 200
+                },
+                {
+                    "key": "paramC",
+                    "value": 300
+                }
+            ]
+        }
+    }
+]
